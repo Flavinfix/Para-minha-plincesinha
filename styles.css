@@ -1,0 +1,68 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    color: #4a235a;
+    background-color: #f8f0ff;
+}
+
+header.hero {
+    text-align: center;
+    padding: 50px 20px;
+    background: linear-gradient(to bottom, #7d3c98, #bb8fce);
+    color: #fff;
+}
+
+header.hero h1 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+header.hero p {
+    font-size: 1.2em;
+    margin-bottom: 30px;
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 1em;
+    color: #7d3c98;
+    background: #fff;
+    border-radius: 20px;
+    text-decoration: none;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+section {
+    padding: 40px 20px;
+    text-align: center;
+}
+
+section h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.special {
+    background-color: #e8daef;
+    border-left: 6px solid #7d3c98;
+}
+
+.love {
+    background-color: #d2b4de;
+}
+
+.promises {
+    background: linear-gradient(to bottom, #4a235a, #6c3483);
+    color: #fff;
+}
+
+footer.letter {
+    padding: 30px 20px;
+    background: #4a235a;
+    color: #fff;
+    text-align: center;
+}
